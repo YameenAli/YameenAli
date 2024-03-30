@@ -28,7 +28,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/iamyameenali"><img width="66px" alt="Fb" title="FaceBook" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/fb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.youtube.com/@codewithyameen"><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
+  <a href="https://www.youtube.com/channel/UCbZ5S8b8L2xvpFQnHQyrtJg"><img width="66px" alt="Yt" title="Youtube" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Social_Icons/Youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   
