@@ -43,7 +43,7 @@
 
 <!-- Data Dont Lie-->
 
-<img align="right" width=150px src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/giphy.gif">
+<img align="right" width=150px src="https://github.com/YameenAli/YameenAli/blob/main/3D_Contributions/giphy.gif">
 
 <!-- Dont Lie End Here -->
 
@@ -65,7 +65,7 @@
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/3D_Contributions/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/YameenAli/YameenAli/blob/main/3D_Contributions/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
@@ -80,33 +80,32 @@
 
 <!--- language icons --->
 
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/C.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/CPP.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/JAVA.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/HTML.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/CSS.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/JS.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/PYTHON.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/git.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/vscode.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/vstudio.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/intellij.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/clion.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/pycharm.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/anaconda.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/JUPYTER.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SPYDER.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/github.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/PYTHON.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/anaconda.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/JUPYTER.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/pycharm.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/vscode.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/git.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/vstudio.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/C.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/CPP.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/HTML.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/CSS.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/JS.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/intellij.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/clion.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/SPYDER.png" />
 <!-- <img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/TABLEAU.png" />  -->
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/STATS.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/EXCEL.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/visio.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/SQL.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/AZURE.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/ps.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/id.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/ai.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/xd.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/fg.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/STATS.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/EXCEL.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/SQL.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/AZURE.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/ps.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/id.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/ai.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/xd.png" />
+<img height="100" src="https://github.com/YameenAli/YameenAli/blob/main/Assets/Icons/fg.png" />
 
   
 &nbsp;
